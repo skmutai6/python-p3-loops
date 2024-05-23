@@ -48,7 +48,6 @@ function reverseString(str) {
   return reversedStr;
 }
 
-
 /*
 Write a function `square_integers()` that takes one argument, a list of
 integers and returns the list of squared elements.
